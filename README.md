@@ -1,1 +1,2 @@
-# github-practice
+## はじめてのGitHub
+GitHubの練習中です
